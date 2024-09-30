@@ -6,13 +6,13 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author Yan
  * @version Sept 2024
  */
-public class Apple extends Food
+public class Banana extends Food
 {
     int speed = 1;
     
-    public Apple()
+    public Banana()
     {
-        super(1);
+        super(5);
     }
     
     /**
